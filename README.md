@@ -1,13 +1,11 @@
-# Zomato-Data-Analysis
-A project analyzing Zomato restaurant data to uncover trends and insights.
+# Zomato Data Analysis
+A project analyzing Zomato restaurant data, inspired by a GeeksforGeeks tutorial.
 
+## Overview
+This project explores Zomato restaurant trends, such as ratings and cuisines.
 ## Setup
-1. Install dependencies: `pip install pandas numpy matplotlib`
-2. Run the script: `python analysis.py`
+1. Install dependencies: `pip install pandas numpy matplotlib seaborn`
+2. Run: `python my_analysis.py` or open `my_notebook.ipynb`
 
-## Dataset
-[Link to dataset, e.g., Kaggle, Google Drive, or note if included]
 
-## Files
-- `analysis.py`: Main script for analysis
-- `notebook.ipynb`: Jupyter notebook with visualizations
+
